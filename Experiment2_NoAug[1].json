@@ -1,0 +1,9 @@
+{
+    "model": "ResNet18",
+    "augmentation": false,
+    "epochs": 10,
+    "best_val_accuracy": 0.907608695652174,
+    "test_accuracy": 0.8819841918778959,
+    "test_macro_f1": 0.8797952145325483,
+    "training_time": 130.22280955314636
+}

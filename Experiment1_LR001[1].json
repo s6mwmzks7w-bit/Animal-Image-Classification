@@ -1,0 +1,8 @@
+{
+    "model": "ResNet18",
+    "learning_rate": 0.001,
+    "epochs": 10,
+    "best_val_accuracy": 0.7078804347826086,
+    "final_val_accuracy": 0.6711956521739131,
+    "training_time": 130.8681538105011
+}

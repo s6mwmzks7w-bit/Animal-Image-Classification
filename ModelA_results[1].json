@@ -1,0 +1,8 @@
+{
+    "model": "AnimalCNN",
+    "epochs": 10,
+    "learning_rate": 0.001,
+    "validation_accuracy": 0.12364130434782608,
+    "test_accuracy": 0.09321340964840556,
+    "test_macro_f1": 0.07444812819707754
+}
